@@ -80,7 +80,7 @@
         <div class="logo">AE</div>
         <div>
           <h1>Albert Einstein — Mathe &amp; Ideen</h1>
-          <p class="lead">Kurz, schön &amp; interaktiv: Formeln, Fakten und erklärende Animationen.</p>
+          <p class="lead">Eine elegante Lernseite mit verständlichen Erklärungen, klaren Beispielen und interaktiven Elementen.</p> interaktiven Elementen.</p>
         </div>
       </div>
       <nav>
@@ -107,11 +107,16 @@
           </div>
         </div>
 
-        <div id="bio" class="card section">
-          <h2>Kurzbiografie</h2>
-          <p class="small">Albert Einstein war ein deutscher Physiker, bekannt vor allem für die Spezielle (1905) und Allgemeine Relativitätstheorie (1915). Seine Arbeit verband experimentelle Beobachtungen mit mathematischen Modellen — oft durch geschickte Vereinfachungen und tiefgehende Symmetrie-Überlegungen.</p>
+        <div id="bio" clas<h2>Kurzbiografie</h2>
+          <p class="small">Albert Einstein gilt als einer der einflussreichsten Wissenschaftler aller Zeiten. Seine besondere Stärke lag darin, komplizierte Naturgesetze in einfache mathematische Ideen zu übersetzen. Statt auf reines Auswendiglernen setzte er auf Vorstellungsvermögen, logisches Denken und saubere Mathematik.</p>
 
-          <div class="timeline" id="timeline">
+          <p class="small">Schon als Jugendlicher beschäftigte er sich intensiv mit Geometrie und Algebra. Später verband er diese Grundlagen mit physikalischen Fragen – besonders zu Raum, Zeit und Bewegung.</p>
+
+          <div class="timeline"atik.</p>
+
+          <p class="small">Schon als Jugendlicher beschäftigte er sich intensiv mit Geometrie und Algebra. Später verband er diese Grundlagen mit physikalischen Fragen – besonders zu Raum, Zeit und Bewegung.</p>
+
+          <div class="timeline"" id="timeline">
             <div class="time-item"><div class="year">1905</div><div><strong>Annus Mirabilis</strong> — vier grundlegende Arbeiten, u. a. zur speziellen Relativität und zum photoelektrischen Effekt.</div></div>
             <div class="time-item"><div class="year">1915</div><div><strong>Allgemeine Relativitätstheorie</strong> — Gravitation als Geometrie der Raumzeit.</div></div>
             <div class="time-item"><div class="year">1921</div><div><strong>Nobelpreis</strong> für den photoelektrischen Effekt (nicht für Relativitätstheorie).</div></div>
@@ -124,16 +129,16 @@
 
           <h3>Energie — Masse</h3>
           <div class="eq">$E = mc^2$</div>
-          <p class="small">Energie E ist gleich Masse m mal Lichtgeschwindigkeit c zum Quadrat. Diese Formel zeigt die Äquivalenz von Masse und Energie.</p>
+          <p class="small">Diese berühmte Gleichung zeigt, dass Masse und Energie zwei Formen derselben Größe sind. Selbst eine winzige Menge Masse kann in extrem viel Energie umgewandelt werden.</p>
 
           <h3>Speziellen Relativität (Lorentz-Transformation)</h3>
           <pre>\( t' = \gamma \left(t - \dfrac{v x}{c^2}\right), \quad x' = \gamma (x - v t), \quad \gamma = \dfrac{1}{\sqrt{1-v^2/c^2}} \)</pre>
 
-          <p class="small">Diese Transformationen verbinden Zeit- und Ortskoordinaten in verschiedenen Inertialsystemen.</p>
+          <p class="small">Die Lorentz-Transformationen erklären, warum Zeit und Strecke für bewegte Beobachter unterschiedlich gemessen werden. Je schneller man sich bewegt, desto stärker treten diese Effekte auf.</p>
 
           <h3>Allgemeine Relativität — Einsteins Feldgleichungen (kompakt)</h3>
           <pre>\( G_{\mu\nu} + \Lambda g_{\mu\nu} = \tfrac{8\pi G}{c^4} T_{\mu\nu} \)</pre>
-          <p class="small">Auf der linken Seite steht die Geometrie der Raumzeit, auf der rechten Seite die Materie-/Energie-Verteilung.</p>
+          <p class="small">Diese Gleichung beschreibt, wie Materie und Energie die Raumzeit krümmen. Die Krümmung bestimmt wiederum, wie sich Körper bewegen – das ist Einsteins Erklärung für Gravitati
 
           <h3>Lineare Algebra & Tensorkalkül</h3>
           <p class="small">Einsteins Theorien benötigen Tensoren (z. B. Metrik $g_{\mu\nu}$, Energie-Impuls-Tensor $T_{\mu\nu}$). Lineare Algebra, Differentialgeometrie und Analysis sind hier die Werkzeuge.</p>
@@ -145,9 +150,7 @@
           </div>
         </div>
 
-        <div class="card section">
-          <h2>Weiterführende Themen</h2>
-          <div class="list">
+        <div cl    <div class="list">
             <div class="card small"><strong>Geometrie der Raumzeit</strong><div class="small">Riemannsche Geometrie, Metrik, Geodäten.</div></div>
             <div class="card small"><strong>Feldgleichungen lösen</strong><div class="small">Symmetrien (z. B. Schwarzschild-Lösung), Näherungsverfahren.</div></div>
             <div class="card small"><strong>Quanten vs. Relativität</strong><div class="small">Einsteins Berührungen mit Quanten (Photoeffekt) und seine späteren Einwände gegen die Kopenhagener Deutung.</div></div>
