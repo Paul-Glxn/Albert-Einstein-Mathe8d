@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="de">
 <head>
   <meta charset="utf-8" />
@@ -188,7 +188,7 @@
     </main>
 
     <footer>
-      <div class="small">Erstellt mit ❤️ — Passe die Seite an, sag mir, welche Themen du noch reinmöchtest.</div>
+      <div class="small">Diese website wurde von Paul W. Erstellt </div>
     </footer>
   </div>
 
