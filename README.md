@@ -1,10 +1,10 @@
-<!doctype html>
+
 <html lang="de">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mathe & Einstein — Eine interaktive Mini-Website</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <title>Mathe & Einstein Erstellt von Paul (Ps falls ihr was seht wie :    <div cla.ss="logoE</jdhjde... Kommt das durch fehler von mir)  </title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">e
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
   <!-- MathJax für schöne Formeln -->
@@ -77,7 +77,7 @@
         <div class="logo">AE</div>
         <div>
           <h1>Albert Einstein — Mathe & Ideen ✨</h1>
-          <p class="lead">Coole Erklärungen, einfache Beispiele und kleine Aufgaben — so dass Mathe Spaß macht! 🤓</p>
+          <p class="lead">Coole Erklärungen einfache Beispiele und kleine Aufgaben — so dass Mathe Spaß macht! 🤓</p>
         </div>
       </div>
       <nav>
@@ -184,7 +184,7 @@
     </main>
 
     <footer>
-      <div class="small">Schulprojekt-Vorlage — Text neu formuliert & designorientiert. Gestalte sie weiter nach deinem Stil.</div>
+      <div class="small">Erstellt von Paul W.</div>
     </footer>
   </div>
 
