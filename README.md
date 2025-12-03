@@ -69,7 +69,7 @@
     <div class="logo">AE</div>
     <div>
       <h1>Albert Einstein</h1>
-      <p class="lead">Mathe & Ideen – Projekt von einem Schüler</p>
+      <p class="lead">Wichtige Infos Sowie schlaue fakten</p>
     </div>
   </div>
 
