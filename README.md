@@ -149,16 +149,7 @@ Diese Formel zeigt, wie sich Zeit und Masse verändern, wenn sich etwas sehr sch
 </p>
 </div>
 
-<div class="card gallery">
-<h2>Bilder</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Einstein_tongue.jpg">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_portrait2.jpg">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Albert_Einstein_1947.jpg">
-</div>
 
-</section>
-
-<aside>
 
 <div class="card">
 <h2>Info</h2>
